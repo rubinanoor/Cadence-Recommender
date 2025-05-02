@@ -1,5 +1,4 @@
-
-Cadence - Music Recommendation System
+# Cadence - Music Recommendation System
 
 **Cadence** is a music recommendation system that provides song suggestions based on the song and artist provided by the user. Using **KMeans clustering** and features like danceability, loudness, and energy, this app offers personalized music recommendations. The backend is powered by **Flask**, and the frontend is built using **HTML/CSS**.
 
@@ -60,3 +59,5 @@ To set up the project locally, follow these steps:
 - **Flask**: Web framework for the backend.
 - **KMeans**: Machine learning model for clustering songs based on musical features.
 - **HTML/CSS**: Frontend technologies for the user interface.
+
+
